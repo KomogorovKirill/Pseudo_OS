@@ -1,3 +1,5 @@
+.PHONY: all clean
+
 all: sectors.bin loader.bin
 	@cat loader.bin sectors.bin > os.bin
 
