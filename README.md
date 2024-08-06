@@ -7,3 +7,24 @@ Assembly: *make*
 Cleaning up the space after assembly: *make clean*
 
 Launch of the project: *make run*
+
+
+---Example of the work---
+
+Welcome Screen
+
+![](./img/start.png)
+
+Entering the password
+
+![](./img/enter_password.png)
+
+The correct password is *543*
+
+Displaying information about an invalid password
+
+![](./img/wrong_password.png)
+
+Displaying information about an correct password
+
+![](./img/win.png)
